@@ -1,0 +1,26 @@
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov_2._0.LoginForm.resources
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov_2._0.Products.resources
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov_2._0.RegistrationForm.resources
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.csproj.GenerateResource.cache
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.AssemblyInfoInputs.cache
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.AssemblyInfo.cs
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.csproj.CoreCompileInputs.cache
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\Vetov 2.0.exe
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\Vetov 2.0.deps.json
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\Vetov 2.0.runtimeconfig.json
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\Vetov 2.0.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\Vetov 2.0.pdb
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\refint\Vetov 2.0.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.pdb
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.genruntimeconfig.cache
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\ref\Vetov 2.0.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.csproj.AssemblyReference.cache
+C:\Users\T h e  G a m e r s\source\repos\Vetov 2.0\Vetov 2.0\obj\Debug\net6.0-windows\Vetov 2.0.csproj.Up2Date
